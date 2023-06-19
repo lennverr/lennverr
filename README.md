@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 # About Me:
-Master's Degree in Business Economics at the KU Leuven<br>Just finished the Le Wagon Data Science Track in Brussels<br>Looking for a junior Business Consultant/Analyst job.<br><br><br>
+## Master's Degree in Business Economics at the KU Leuven
+## Just finished the Le Wagon Data Science Track in Brussels
+## Looking for a junior Business Consultant/Analyst job
 
 
 ## 🌐 Socials:

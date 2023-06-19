@@ -5,7 +5,8 @@
 🎓 Master's Degree in **Business Economics** at KU Leuven  
 🚀 Just finished the **Le Wagon Data Science** Track in Brussels   
 💡 Projects: **Veggideas** - A delicious journey into the world of plant-based recipes  
-🔍 Looking for an exciting opportunity as a **junior Business Consultant/Analyst** 
+🔍 Looking for an exciting opportunity as a **junior Business Consultant/Analyst**
+
 🌍 Passionate about leveraging data to drive strategic decision-making  
 💻 Fluent in the languages of **Python**, **SQL**, and **BPMN**
 

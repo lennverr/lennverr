@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 💫 About Me:
+# About Me:
 
 🎓 Master's Degree in Business Economics at KU Leuven  
 🚀 Just finished the Le Wagon Data Science Track in Brussels   
